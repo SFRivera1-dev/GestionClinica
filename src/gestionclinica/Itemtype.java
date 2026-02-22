@@ -11,5 +11,5 @@ package gestionclinica;
 public enum Itemtype {
     MEASUREMENT,
     PROCEDURE,
-    SYMPTOM
+    MEDICALSUPPORT
 }

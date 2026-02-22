@@ -12,5 +12,5 @@ public enum Role {
     HUMAN_RESOURCES,
     DOCTOR,
     NURSE,
-    ASSISTANT
+    ADMINISTRATIVE
 }
